@@ -1,0 +1,4 @@
+# Local source bookings and PDF render previews may contain private details.
+downloads/
+tmp/
+
